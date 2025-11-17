@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kayden Documentary</title>
+  <title>Kayden: the mf who leaves my videos on seen</title>
   <style>
     * {
       box-sizing: border-box;
@@ -142,4 +142,185 @@
     .avatar-strip {
       margin-top: 10px;
       font-size: 0.94rem;
-      border-left: 3px solid rgba(64, 180, 255,
+      border-left: 3px solid rgba(64, 180, 255, 0.9);
+      padding-left: 10px;
+    }
+
+    .tiny-note {
+      font-size: 0.78rem;
+      opacity: 0.8;
+      margin-top: 6px;
+    }
+
+    footer {
+      text-align: center;
+      color: #92a6ff;
+      margin-top: 30px;
+      font-size: 0.85rem;
+      opacity: 0.9;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2.1rem;
+      }
+      section {
+        padding: 20px 16px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Kayden: A chiken nugget </h1>
+  <p>Documenting the life of a goofy, low-key lonely, secretly legendary blue-loving bean.</p>
+  <p class="tagline">Somewhere between a ditch and a troll village  there is Kayden.</p>
+</header>
+
+<main>
+  <section>
+    <div class="section-inner">
+      <h2>Basic Lore</h2>
+      <p><span class="highlight">Name:</span> Kayden</p>
+      <p><span class="highlight">Age:</span> 15 or 50 smt like that</p>
+      <p><span class="highlight">Birthday:</span> January 17</p>
+      <p><span class="highlight">Favorite Color:</span> Blu (i think ligth blu)</p>
+      <div class="pill-row">
+        <span class="pill">Ugly Vibes</span>
+        <span class="pill">Avatar liker</span>
+        <span class="pill">Goofy 24/7</span>
+        <span class="pill">Sports Kid</span>
+        <span class="pill">Karate</span>
+        <span class="pill">BedWars Sweaty Betty</span>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>Family & Origins</h2>
+      <p>Kayden comes from a very <span class="highlight">genetically blessed</span> household.</p>
+      <div class="facts-grid">
+        <div class="fact-box">
+          <strong>Siblings</strong>
+          <p>He has two siblings: a brother in college and a sister. From what i know his sister is hot and i belive it whole heartedly </p>
+        </div>
+        <div class="fact-box">
+          <strong>Family shi</strong>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>The Hot Parents Section (Because It Had To Be Said)</h2>
+      <p>Listen. Kayden's parents are <span class="highlight">unnecessarily attractive</span>. It's actually disrespectful to the rest of the population.</p>
+      <h3>His Dad</h3>
+      <p>
+        Kayden's dad has that "main character in a shampoo commercial" level hair. When he was in his prime, he was <span class="highlight">majestic</span> — like walk-into-a-room-and-the-background-music-changes type majestic.
+      </p>
+      <p>
+        Even now, he still has that "cool without trying" vibe. You just know old pictures of him go crazh.
+      </p>
+
+      <h3>His Mom</h3>
+      <p>
+        His mom is straight up <span class="highlight">gorgeous</span>. The kind of pretty that makes you question if shes a MODEL 
+      </p>
+      <p>
+        She givesmakes me wanna be zesty, "effortlessly pretty", and give mommy energy.
+      </p>
+
+      <p class="tiny-note">Conclusion: this whole family is smashable honestly. no his brother nt my cup if tea.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>Personality: Goofy, But Make It Deep</h2>
+      <p>Kayden is almost never serious. Like, ever. He is the type to joke through emotional moments and turn any normal situation into a whole joke with the little tiktok picture meme thingys</p>
+      <ul>
+        <li>Always a ugly clown, rarely serious, but has hidden depth.</li>
+        <li>Low-key lonely even if he doesn't talk about it.</li>
+        <li>"Cool bean" energy with random bully behavior like leaving people on read.</li>
+        <li>Probably not responding to TikToks because being dumb.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>Avatar, Daphne & Secret Feelings</h2>
+      <div class="avatar-strip">
+        <p><strong>Favorite Movie:</strong> <span class="highlight">Avatar</span></p>
+        <p>Of course Kayden's favorite movie is Avatar (prolly) — blue people, glowing forest and shi.</p>
+      </div>
+
+      <h3>Daphne Blake Agenda</h3>
+      <p>
+        He likes <span class="highlight">Daphne Blake</span> from Scooby-Doo. Mystery-solving, purple outfit, red hair, whole icon.
+      </p>
+
+      <h3>Identity Side Quest</h3>
+      <p>
+        Kayden is still figuring himself out and doesn't exactly yell his feelings to the world. Let's just say he is <span class="highlight">not very straight-coded</span>, even if he doesn't openly talk about it yet. And that's okay — his story is still being written. in other words hes gay.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>Games, Sports & Combat Arc</h2>
+      <p>Kayden do sports like KARATAAA he did football i tink and basket balls he jus really love balls i think.</p>
+      <div class="facts-grid">
+        <div class="fact-box">
+          <strong>Karate</strong>
+          <p>He does karate, which means he can roundhouse a chikfila cow.</p>
+        </div>
+        <div class="fact-box">
+          <strong>Sports Life</strong>
+          <p>From what i know he play sports alot of he life he a sweaty betty</p>
+        </div>
+        <div class="fact-box">
+          <strong>BedWars Main</strong>
+          <p>He loves BedWars and plays a lot. even after he say "i cant play robloxxxx" dummy..</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>Kayden & TikTok: The mf who no reply </h2>
+      <p>
+        If you've ever sent Kayden a TikTok and he didn't respond… me can relate
+      </p>
+      <ul>
+        <li>Leaves people on seen like it's a job. speaking of jobs to need one brokie.</li>
+        <li>Will watch it, laugh, and still not say anything.</li>
+        <li>Low-effort bully behavio .</li>
+      </ul>
+    
+    </div>
+  </section>
+
+  <section>
+    <div class="section-inner">
+      <h2>Final Notes on a Cool Bean</h2>
+      <p>
+        At the end of the day, Kayden is a <span class="highlight">pretty cool bean</span>. Goofy, low-key ugly, chaotic, and surrounded by an  attractive family...
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Kayden: Blue Galaxy Documentary • Written by a gorgouse spontanouse amazing smart terrifc friend who pays wmuch attention cuz they sigma btw *what does spontanous mean...</p>
+</footer>
+
+</body>
+</html>
